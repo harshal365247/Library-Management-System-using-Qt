@@ -1,0 +1,20 @@
+QFrame#buttonFrame {
+border : 1px solid black ;
+border-radius : 5px ;
+background-color : white ;
+}
+
+QFrame#studentInfoFrame {
+border : 1px solid black ;
+border-radius : 5px ;
+}
+
+QFrame#buttonFrame > QPushButton {
+border-radius : 5px ;
+}
+
+QFrame#loginFrame{
+border : 1px solid black ;
+border-radius : 5px ;
+}
+

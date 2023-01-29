@@ -1,0 +1,10 @@
+#ifndef INDEX_H
+#define INDEX_H
+
+#define START_WIDGET 0
+#define SIGNUP_WIDGET 1
+#define LOGIN_WIDGET 2
+#define DASHBOARD_WIDGET 3
+#define ADMIN_DASHBOARD_WIDGET 4
+
+#endif // INDEX_H
